@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\Game-Lecture\\Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{688BD6B1-DABA-42F3-8FFC-9B6F89C5ACA2}|..\\Class2th (class)\\Class2th (class).vcxproj|C:\\Users\\user\\Documents\\GitHub\\Game-Lecture\\Class2th (class)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57786948-7737-4EEC-9518-AB75ACE3C0C3}|Program.vcxproj|C:\\Users\\user\\Documents\\GitHub\\Game-Lecture\\Program\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{57786948-7737-4EEC-9518-AB75ACE3C0C3}|Program.vcxproj|solutionrelative:program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -17,8 +20,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Game-Lecture\\Class2th (class)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class2th (class)\\Source.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Game-Lecture\\Class2th (class)\\Source.cpp",
+              "RelativeToolTip": "..\\Class2th (class)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-15T10:03:09.407Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -29,7 +45,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Class1th (stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\Class1th (stream)\\Source.cpp",
@@ -41,7 +57,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "program.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Game-Lecture\\Program\\program.cpp",
               "RelativeDocumentMoniker": "program.cpp",
